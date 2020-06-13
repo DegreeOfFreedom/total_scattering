@@ -1,6 +1,6 @@
 # total_scattering
 
-##Usage  
+## Usage  
 
 The scripts in this repository are not intended to work out of the box for any given total scattering experiment.  
 Neither are they the most efficient for that purpose. In fact they could be improved greatly with only little effort.  
