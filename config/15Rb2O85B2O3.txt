@@ -1,0 +1,12 @@
+/home/anon/Dokumente/Studium/Masterarbeit/Amptek_05_2019/15Rb2O85B2O3_180313/
+/home/anon/Dokumente/Studium/Masterarbeit/Data2/
+/home/anon/Dokumente/Studium/Masterarbeit/Plots/
+15Rb_
+scatter_Rb
+0.362
+0.574
+0.064
+182400
+87800
+28
+23

@@ -1,0 +1,12 @@
+/home/anon/Dokumente/Studium/Masterarbeit/Amptek_05_2019/20Na2O80B2O3_101212/
+/home/anon/Dokumente/Studium/Masterarbeit/Data2/
+/home/anon/Dokumente/Studium/Masterarbeit/Plots/
+20Na2O80B2O3_DEG_
+scatter_Na
+0.348
+0.565
+0.087
+182400
+95800
+29
+85

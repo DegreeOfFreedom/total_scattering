@@ -1,0 +1,12 @@
+/home/anon/Dokumente/Studium/Masterarbeit/Messreihe2_Glass_07.2019/B2O3/
+/home/anon/Dokumente/Studium/Masterarbeit/Data2/
+/home/anon/Dokumente/Studium/Masterarbeit/Plots/
+B2O3_DEG_
+scatter_Rb
+0.4
+0.6
+0.0
+212894
+145702
+34
+85

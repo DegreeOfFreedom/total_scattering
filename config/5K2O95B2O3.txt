@@ -1,0 +1,12 @@
+/home/anon/Dokumente/Studium/Masterarbeit/Amptek_05_2019/5Ka2O95B2O3_130417/
+/home/anon/Dokumente/Studium/Masterarbeit/Data2/
+/home/anon/Dokumente/Studium/Masterarbeit/Plots/
+5Ka2O95B2O3_DEG_
+scatter_K
+0.388
+0.592
+0.02
+182400
+92500
+29
+60

@@ -1,0 +1,12 @@
+/home/anon/Dokumente/Studium/Masterarbeit/Messreihe2_Glass_07.2019/5Na2O95B2O3/
+/home/anon/Dokumente/Studium/Masterarbeit/Data2/
+/home/anon/Dokumente/Studium/Masterarbeit/Plots/
+5Na2O95B2O3_DEG_
+scatter_Na
+0.388
+0.592
+0.02
+212894
+88500
+34
+120

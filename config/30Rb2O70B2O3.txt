@@ -1,0 +1,12 @@
+/home/anon/Dokumente/Studium/Masterarbeit/Messreihe2_Glass_07.2019/30Rb2O70B2O3/
+/home/anon/Dokumente/Studium/Masterarbeit/Data2/
+/home/anon/Dokumente/Studium/Masterarbeit/Plots/
+30Rb2O70B2O3_DEG_
+scatter_Rb
+0.318
+0.545
+0.136
+212894
+59688
+37
+2.5

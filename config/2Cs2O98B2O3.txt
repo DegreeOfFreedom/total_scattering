@@ -1,0 +1,12 @@
+/home/anon/Dokumente/Studium/Masterarbeit/Amptek_05_2019/2Cs2O98B2O3_TU_April_17/
+/home/anon/Dokumente/Studium/Masterarbeit/Data2/
+/home/anon/Dokumente/Studium/Masterarbeit/Plots/
+2Cs2O98B2O3_DEG_
+scatter_Cs
+0.395
+0.597
+0.008
+182400
+17200
+28
+5

@@ -1,0 +1,12 @@
+/home/anon/Dokumente/Studium/Masterarbeit/Amptek_05_2019/20CsO280B2O3/
+/home/anon/Dokumente/Studium/Masterarbeit/Data2/
+/home/anon/Dokumente/Studium/Masterarbeit/Plots/
+20Cs2O80B2O3_DEG_
+scatter_Cs
+0.348
+0.565
+0.087
+182400
+49800
+29
+4

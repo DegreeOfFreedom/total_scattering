@@ -1,0 +1,12 @@
+/home/anon/Dokumente/Studium/Masterarbeit/Messreihe2_Glass_07.2019/20Li2O80B2O3/
+/home/anon/Dokumente/Studium/Masterarbeit/Data2/
+/home/anon/Dokumente/Studium/Masterarbeit/Plots/
+20Li2O80B2O3_DEG_
+scatter_Li
+0.348
+0.565
+0.087
+212894
+130600
+32
+100

@@ -1,0 +1,12 @@
+/home/anon/Dokumente/Studium/Masterarbeit/Amptek_05_2019/2Rb2O98B2O3/
+/home/anon/Dokumente/Studium/Masterarbeit/Data2/
+/home/anon/Dokumente/Studium/Masterarbeit/Plots/
+2Rb2O98B2O3_DEG_
+scatter_Rb
+0.395
+0.597
+0.008
+182400
+107000
+30
+80

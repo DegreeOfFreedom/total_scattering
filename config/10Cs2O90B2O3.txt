@@ -1,0 +1,12 @@
+/home/anon/Dokumente/Studium/Masterarbeit/Messreihe2_Glass_07.2019/10Cs2O90B2O3/
+/home/anon/Dokumente/Studium/Masterarbeit/Data2/
+/home/anon/Dokumente/Studium/Masterarbeit/Plots/
+10Cs2O90B2O3_DEG_
+scatter_Cs
+0.375
+0.583
+0.042
+212894
+57840
+33
+1
