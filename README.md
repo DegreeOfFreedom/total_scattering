@@ -3,7 +3,7 @@
 ## Usage  
 
 The scripts in this repository are not intended to work out of the box for any given total scattering experiment.  
-Neither are they the most efficient for that purpose. In fact they could be improved greatly with only little effort.  
+Neither are they the most efficient for that purpose. In fact they could be improved significantly with only little effort.  
 The purpose of these scripts is to demonstrate how the raw intensities from the data folder were evaluated to represent the scattering functions **S(q)** for each sample in the results section of the master thesis "Evaluation of the diffuse X-Ray scattering on Alkali-Borate Glasses".  
 As such, included in this repository are scrips for:  
 - All calibrations performed in section 2.3
